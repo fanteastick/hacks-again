@@ -1838,6 +1838,11 @@ body {
 .cid-qV5uGpxV9g .card .panel-body {
   color: #767676;
 }
+.cid-r1bVCmI5n0 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-qV5p93Cpx2 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2016,6 +2021,15 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-r1c78PdoqR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r1c78PdoqR .mbr-text,
+.cid-r1c78PdoqR blockquote {
+  color: #767676;
 }
 .cid-qV4EqZiWh0 {
   padding-top: 90px;
